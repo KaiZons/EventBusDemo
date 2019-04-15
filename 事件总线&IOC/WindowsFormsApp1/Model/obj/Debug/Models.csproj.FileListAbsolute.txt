@@ -1,0 +1,5 @@
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\Model\bin\Debug\Model.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\Model\bin\Debug\Model.pdb
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\Model\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\Model\obj\Debug\Model.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\Model\obj\Debug\Model.pdb

@@ -1,0 +1,7 @@
+E:\vs2017TestCode\PublisherTosubscriber\PublisherTosubscriber\bin\Debug\PublisherTosubscriber.exe.config
+E:\vs2017TestCode\PublisherTosubscriber\PublisherTosubscriber\bin\Debug\PublisherTosubscriber.exe
+E:\vs2017TestCode\PublisherTosubscriber\PublisherTosubscriber\bin\Debug\PublisherTosubscriber.pdb
+E:\vs2017TestCode\PublisherTosubscriber\PublisherTosubscriber\obj\Debug\PublisherTosubscriber.csproj.CoreCompileInputs.cache
+E:\vs2017TestCode\PublisherTosubscriber\PublisherTosubscriber\obj\Debug\PublisherTosubscriber.exe
+E:\vs2017TestCode\PublisherTosubscriber\PublisherTosubscriber\obj\Debug\PublisherTosubscriber.pdb
+E:\vs2017TestCode\PublisherTosubscriber\PublisherTosubscriber\obj\Debug\PublisherTosubscriber.csprojAssemblyReference.cache

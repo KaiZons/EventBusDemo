@@ -1,0 +1,15 @@
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\EventSourceObject.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\EventSourceObject.pdb
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\EventBus.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\Model.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\Utilities.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\log4net.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\EventBus.pdb
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\Model.pdb
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\Utilities.pdb
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\bin\Debug\log4net.xml
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\obj\Debug\EventSourceObject.csprojAssemblyReference.cache
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\obj\Debug\EventSourceObject.csproj.CoreCompileInputs.cache
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\obj\Debug\EventSourceObject.csproj.CopyComplete
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\obj\Debug\EventSourceObject.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventSourceObject\obj\Debug\EventSourceObject.pdb

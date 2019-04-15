@@ -1,0 +1,10 @@
+E:\vs2017TestCode\MessageControl\MessageControl\bin\Debug\MessageControl.exe.config
+E:\vs2017TestCode\MessageControl\MessageControl\bin\Debug\MessageControl.exe
+E:\vs2017TestCode\MessageControl\MessageControl\bin\Debug\MessageControl.pdb
+E:\vs2017TestCode\MessageControl\MessageControl\obj\Debug\MessageControl.csprojAssemblyReference.cache
+E:\vs2017TestCode\MessageControl\MessageControl\obj\Debug\MessageControl.Form1.resources
+E:\vs2017TestCode\MessageControl\MessageControl\obj\Debug\MessageControl.Properties.Resources.resources
+E:\vs2017TestCode\MessageControl\MessageControl\obj\Debug\MessageControl.csproj.GenerateResource.cache
+E:\vs2017TestCode\MessageControl\MessageControl\obj\Debug\MessageControl.csproj.CoreCompileInputs.cache
+E:\vs2017TestCode\MessageControl\MessageControl\obj\Debug\MessageControl.exe
+E:\vs2017TestCode\MessageControl\MessageControl\obj\Debug\MessageControl.pdb

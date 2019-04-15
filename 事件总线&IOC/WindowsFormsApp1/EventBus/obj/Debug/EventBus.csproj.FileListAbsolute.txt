@@ -1,0 +1,11 @@
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\obj\Debug\EventBus.csproj.CoreCompileInputs.cache
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\bin\Debug\EventBus.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\bin\Debug\EventBus.pdb
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\bin\Debug\Utilities.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\bin\Debug\log4net.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\bin\Debug\Utilities.pdb
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\bin\Debug\log4net.xml
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\obj\Debug\EventBus.csprojAssemblyReference.cache
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\obj\Debug\EventBus.csproj.CopyComplete
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\obj\Debug\EventBus.dll
+E:\vs2017TestCode\事件总线相关\事件总线&IOC\WindowsFormsApp1\EventBus\obj\Debug\EventBus.pdb
